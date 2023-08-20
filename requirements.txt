@@ -4,3 +4,4 @@ pandas_profiling
 pandas
 streamlit_pandas_profiling
 pycaret
+pycaret[models]
